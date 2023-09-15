@@ -41,6 +41,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
+=======
+     <Compile Include="Assets/BulletSpawner.cs" />
+     <Compile Include="Assets/Bullet.cs" />
+>>>>>>> Stashed changes
      <Compile Include="Assets/PlayerController.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Scenes" />
